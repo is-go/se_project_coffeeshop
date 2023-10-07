@@ -24,7 +24,7 @@
 .about__title {
   padding: 100px 80px 0;
   margin: 0;
-  font-family: "Inter";
+  font-family: "Inter", "Arial", "sans-serif";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -41,12 +41,14 @@
 }
 
 .about__paragraph {
+  font-family: "Noto Serif", "Times New Roman", "Serif";
+  font-style: normal;
+  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
   max-width: 660px;
   margin-top: 0;
-
 }
 
 .about__paragraph:last-of-type {
@@ -64,12 +66,5 @@
 }
 
 .about__circle_animation_blurred{
-  background-color: #2f80ed;
-  width: 426px;
-  height: 426px;
-  border-radius: 50%;
-  position: absolute;
-  top: -152px;
-  left: -129px;
   animation: pulsate 1.3s ease-in-out infinite;
 }
