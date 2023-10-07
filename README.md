@@ -11,6 +11,16 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
+## Screenshots
+
+- ![Homepage](./images/demo/Homepage.png)
+- ![Functional-videos](./images/demo/Functional-videos.png)
+- ![About-pulsate](./images/demo/About-pulsate.png)
+
 ## Plan on improving the project
 
-Add your ideas here :)
+- Add more recipes
+- Create section for recipe submission
+- Add photos of shop and customers to About section
+- Improve accessability
+
