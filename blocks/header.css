@@ -12,6 +12,8 @@
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 1;
+  min-height: 720px;
+  max-height: 800px;
 }
 
 .header__title{
